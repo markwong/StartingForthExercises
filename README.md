@@ -1,2 +1,1 @@
-# StartingForthExercises
-Starting Forth Exercises
+This is the repository for the Starting Forth exercises
