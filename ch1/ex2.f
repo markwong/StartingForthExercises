@@ -1,0 +1,1 @@
+: TEN.LESS   ( n -- less ) 10 - ;
